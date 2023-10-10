@@ -1,5 +1,25 @@
 [
   {
+    "Author": "nob",
+    "Name": "Island sanctuary automation",
+    "InternalName": "Island sanctuary automation",
+    "RepoUrl": "",
+    "AssemblyVersion": "0.0.0.7",
+    "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+    "ApplicableVersion": "any",
+    "Tags": ["Island"],
+    "DalamudApiLevel": 8,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": false,
+    "LoadPriority": 0,
+    "Punchline": "无人岛自动跑图（采集）",
+    "AcceptsFeedback": true,
+    "DownloadLinkInstall": "https://github.com/Chrischenx/ourDalamudPlugins/raw/main/plugins/Island%20sanctuary%20automation/latest.zip",
+    "DownloadLinkTesting": "https://github.com/Chrischenx/ourDalamudPlugins/raw/main/plugins/Island%20sanctuary%20automation/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Chrischenx/ourDalamudPlugins/raw/main/plugins/Island%20sanctuary%20automation/latest.zip"
+  },
+  {
     "Author": "Nesb01t",
     "Name": "XIVAutoKey",
     "InternalName": "XIVAutoKey",
