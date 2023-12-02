@@ -113,8 +113,8 @@
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "IconUrl": "https://github.com/daemitus/YesAlready/raw/master/res/icon.png",
-    "DownloadLinkInstall": "https://github.com/RedAsteroid/YesAlready/releases/download/1/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/RedAsteroid/YesAlready/releases/download/1/latest.zip",
+    "DownloadLinkInstall": "https://github.com/Chrischenx/ourDalamudPlugins/blob/main/plugins/YesAlready/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/Chrischenx/ourDalamudPlugins/blob/main/plugins/YesAlready/latest.zip",
   },
   {
     "Author": "\u043a\u0430\u0439\u0442 \u043c\u0430\u0448\u0438\u043d\u0430 (Puni.sh)",
